@@ -1,4 +1,15 @@
 td, th {
 	border: 1px solid;
+	color:white;
+	font-style:italic;
+  }
+  th{
+	  font-size:latger;
+  }
+  h1{
+	 font-family: 'Pacifico', cursive;
+	 font-style: italic;
+	 text-align: center;
+	 color:azure;
   }
   
