@@ -4,3 +4,7 @@ td,th {
 	h1{
 		font-family: 'Raleway', sans-serif;
 	}
+	.planet_img{
+		width:200px;
+		height:200px;
+	}
