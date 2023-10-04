@@ -10,6 +10,9 @@ td,th {
 		width:200px;
 		height:200px;
 	}
+ 	th:Saturn, td:Saturn{
+		background-color:#2050Df;
+	}
 	tr{
 		font-family: 'Bebas Neue', sans-serif;
 		font-size:30px;
