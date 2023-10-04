@@ -10,7 +10,7 @@ td,th {
 		width:200px;
 		height:200px;
 	}
- 	th:Saturn, td:Saturn{
+ 	th:nth-child(1), td:nth-child(1){
 		background-color:#2050Df;
 	}
 	tr{
