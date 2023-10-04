@@ -1,32 +1,22 @@
-td,th {
-		border:1px solid;
+td, th {
+	border: 3px solid white;
+  color:white;
+  font-style: italic;
+  }
+th{
+  font-size: larger;
 }
-	h1{
-		font-family: 'Cedarville Cursive', cursive;
-		font-size:50px;
-		text-align:center;
-	}
-	table{
-		text-align:center;
-		border-collapse:collapse;
-	}
-	#planets{
-		margin-left:auto;
-		margin-right:auto;
-	}
-	.planet_img{
-		width:200px;
-		height:200px;
-	}
-	tr{
-		font-family: 'Cedarville Cursive', cursive;
-		font-size:30px;
-		background-color:#F60929
-	}
- 	th:nth-child(2), td:nth-child(2){
-		background-color:#2050Df;
-	}
-	body
-	{
-		background-color:#736c93
-	}
+h1{
+  font-family: 'Pacifico', cursive;
+  font-style: italic;
+  text-align: center;
+  color:azure;
+  }
+tr{
+  font-family: 'Gochi Hand', cursive;
+  font-size:30px;
+  }
+  .planet_img{
+  width:200px;
+  height:200px;
+  }
