@@ -18,15 +18,14 @@ td,th {
 		width:200px;
 		height:200px;
 	}
- 	th:nth-child(2), td:nth-child(2){
-		background-color:#2050Df;
-	}
 	tr{
 		font-family: 'Bebas Neue', sans-serif;
 		font-size:30px;
 		background-color:#F60929
 	}
-	
+ 	th:nth-child(2), td:nth-child(2){
+		background-color:#2050Df;
+	}
 	body
 	{
 		background-color:#736c93
