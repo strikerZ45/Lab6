@@ -2,7 +2,7 @@ td,th {
 		border:1px solid;
 }
 	h1{
-		font-family: 'Source Code Pro', monospace;
+		font-family: 'Rationale', sans-serif;
 		font-size:50px;
 		text-align:center;
 	}
@@ -19,7 +19,7 @@ td,th {
 		height:200px;
 	}
 	tr{
-		font-family: 'Rationale', sans-serif;
+		font-family: 'Monofett', monospace;
 		font-size:30px;
 		background-color:#F60929
 	}
