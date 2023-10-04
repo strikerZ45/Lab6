@@ -3,11 +3,15 @@ td,th {
 }
 	h1{
 		font-family: 'Raleway', sans-serif;
+		font-size:50px;
 	}
 	.planet_img{
 		width:200px;
 		height:200px;
 	}
+	tr{
+		font-family: 'Bebas Neue', sans-serif;
+		font-size:30px;
 	body
 	{
 		background-color:#736c93
