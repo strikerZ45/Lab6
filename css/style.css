@@ -1,9 +1,12 @@
 td,th {
 		border:3px solid white;
 		color:white;
-		font-family: 'Cedarville Cursive', cursive;
 }
-
+	h1{
+		font-family: 'Pacifio', cursive;
+		font-size:50px;
+		text-align:center;
+	}
 	table{
 		text-align:center;
 		border-collapse:collapse;
