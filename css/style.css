@@ -4,6 +4,7 @@ td,th {
 	h1{
 		font-family: 'Raleway', sans-serif;
 		font-size:50px;
+		text-align:center;
 	}
 	.planet_img{
 		width:200px;
@@ -12,6 +13,7 @@ td,th {
 	tr{
 		font-family: 'Bebas Neue', sans-serif;
 		font-size:30px;
+		background-color:#F60929
 	}
 	
 	body
