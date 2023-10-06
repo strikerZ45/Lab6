@@ -22,7 +22,7 @@ td,th {
 	tr{
 		font-family: 'Exo', sans-serif;
 		font-size:30px;
-		background-color:#F60929
+		background-color:#527bad;
 	}
  	th:nth-child(2), td:nth-child(2){
 		background-color:#d0752f;
