@@ -39,7 +39,6 @@ td,th {
 		background-color:#2050Df;
 		font-family: 'Orbitron', sans-serif;
 	}
-	body
-	{
-		background-color:#736c93
+	body{
+		background-image: url("Nebula.jpeg");
 	}
