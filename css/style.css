@@ -25,7 +25,7 @@ td,th {
 		background-color:#F60929
 	}
  	th:nth-child(2), td:nth-child(2){
-		background-color:#ce9531;
+		background-color:#d0752f;
 		font-family: 'Orbitron', sans-serif;
 	}
 	th:nth-child(3), td:nth-child(3){
@@ -33,11 +33,11 @@ td,th {
 		font-family: 'Space Mono', monospace;
 	}
 	th:nth-child(4), td:nth-child(4){
-		background-color:#2050Df;
+		background-color:#ce9531;
 		font-family: 'Orbitron', sans-serif;
 	}
 	th:nth-child(5), td:nth-child(5){
-		background-color:#2050Df;
+		background-color:#fa8905;
 		font-family: 'Space Mono', monospace;
 	}
 	body{
