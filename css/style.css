@@ -25,8 +25,13 @@ td,th {
 	}
  	th:nth-child(2), td:nth-child(2){
 		background-color:#2050Df;
-		font-family: 'Cedarville Cursive', cursive;
+		font-family: 'Orbitron', sans-serif;
 	}
+	th:nth-child(3), td:nth-child(3){
+		background-color:#2050Df;
+		font-family: 'Orbitron', sans-serif;
+	}
+	
 	body
 	{
 		background-color:#736c93
