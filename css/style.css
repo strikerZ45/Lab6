@@ -3,7 +3,7 @@ td,th {
 		color:white;
 }
 	h1{
-		font-family: 'Space Mono', monospace;
+		font-family: 'Audiowide', sans-serif;
 		text-align:center;
 		color:white;
 	}
@@ -30,7 +30,7 @@ td,th {
 	}
 	th:nth-child(3), td:nth-child(3){
 		background-color:#2050Df;
-		font-family: 'Orbitron', sans-serif;
+		font-family: 'Space Mono', monospace;
 	}
 	th:nth-child(4), td:nth-child(4){
 		background-color:#2050Df;
@@ -38,7 +38,7 @@ td,th {
 	}
 	th:nth-child(5), td:nth-child(5){
 		background-color:#2050Df;
-		font-family: 'Orbitron', sans-serif;
+		font-family: 'Space Mono', monospace;
 	}
 	body{
 		background-image: url('https://universe.nasa.gov/internal_resources/402/Carina%20Nebula.jpeg');
