@@ -2,12 +2,12 @@ td,th {
 	  border:5px solid white;
   color:white;
   }
-  h1{
+ h1{
    font-family: 'Audiowide', sans-serif;
-	text-align:center;
-	color:white;
-	font-weight:bold;
-	}
+   text-align:center;
+   color:white;
+   font-weight:bold;
+   }
   table{
 	text-align:center;
 	border-collapse:collapse;
